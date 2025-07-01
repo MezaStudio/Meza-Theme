@@ -9,6 +9,7 @@
   "categories": [
     "Themes"
   ],
+  "repository": {"url": "https://github.com/MezaStudio/Meza-Theme"},
   "publisher": "anasdev",
   "contributes": {
     "themes": [
