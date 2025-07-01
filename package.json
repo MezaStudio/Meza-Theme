@@ -9,6 +9,7 @@
   "categories": [
     "Themes"
   ],
+  "keywords": ["vscode", "dark", "theme", "vscode-theme", "vscode-dark"],
   "repository": {"url": "https://github.com/MezaStudio/Meza-Theme"},
   "publisher": "anasdev",
   "contributes": {
