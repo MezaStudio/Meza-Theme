@@ -2,22 +2,32 @@
   "name": "meza-theme",
   "displayName": "Meza Theme",
   "description": "vs code dark theme for meza",
-  "version": "0.0.1",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.101.0"
   },
   "categories": [
     "Themes"
   ],
-  "keywords": ["vscode", "dark", "theme", "vscode-theme", "vscode-dark"],
-  "repository": {"url": "https://github.com/MezaStudio/Meza-Theme"},
+  "keywords": [
+    "vscode",
+    "dark",
+    "theme",
+    "vscode-theme",
+    "vscode-dark"
+  ],
+  "icon": "images/meza-theme-icon.png",
+  "repository": {
+    "url": "git+https://github.com/MezaStudio/Meza-Theme.git",
+    "type": "git"
+  },
   "publisher": "anasdev",
   "contributes": {
     "themes": [
       {
-        "label": "Anas Mohamed",
+        "label": "Meza Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Anas Mohamed-color-theme.json"
+        "path": "./themes/anasdev-color-theme.json"
       }
     ]
   }
